@@ -69,7 +69,7 @@ Instrucciones para clonar y ejecutar
 Clonar el repositorio
 
 ```bash
-git clone https://github.com/kevinfernandezur/DGIIApp1.git
+git clone https://github.com/kevinfernandezur/DGIIApp.git
 cd DGIIApp1
 ```
 
