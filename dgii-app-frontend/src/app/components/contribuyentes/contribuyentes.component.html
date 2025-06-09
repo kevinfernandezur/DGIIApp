@@ -48,12 +48,24 @@
                 </span>
               </td>
               <td>
-                <button
-                  class="btn btn-outline-dark btn-ver-comprobante"
+                                <button
+                  class="btn btn-sm fw-semibold"
+                  [ngClass]="{
+                    'btn-outline-dark': selectedContribuyente?.rncCedula !== c.rncCedula,
+                    'btn-danger text-white': selectedContribuyente?.rncCedula === c.rncCedula
+                  }"
+                  style="padding: 1px 18px; border-radius: 20px;"
                   (click)="verComprobantes(c)"
                 >
-                  <i class="bi bi-file-earmark-text me-1"></i> Ver comprobantes
+                  <i class="bi me-1"
+                    [ngClass]="{
+                      'bi-file-earmark-text': selectedContribuyente?.rncCedula !== c.rncCedula,
+                      'bi-x-circle': selectedContribuyente?.rncCedula === c.rncCedula
+                    }"></i>
+
+                  {{ selectedContribuyente?.rncCedula === c.rncCedula ? 'Ocultar comprobantes' : 'Ver comprobantes' }}
                 </button>
+
               </td>
             </tr>
 

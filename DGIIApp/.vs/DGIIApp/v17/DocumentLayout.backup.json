@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\angularyasp\\DGIIApp\\",
+  "WorkspaceRootPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\DGIIApp1-Proyecto\\DGIIApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B906BAFA-E285-4249-954F-F007BF2E710D}|DGIIApp\\DGIIApp.csproj|c:\\users\\kevin\\onedrive\\escritorio\\angularyasp\\dgiiapp\\dgiiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B906BAFA-E285-4249-954F-F007BF2E710D}|DGIIApp\\DGIIApp.csproj|c:\\users\\kevin\\onedrive\\escritorio\\dgiiapp1-proyecto\\dgiiapp\\dgiiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B906BAFA-E285-4249-954F-F007BF2E710D}|DGIIApp\\DGIIApp.csproj|solutionrelative:dgiiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B906BAFA-E285-4249-954F-F007BF2E710D}|DGIIApp\\DGIIApp.csproj|c:\\users\\kevin\\onedrive\\escritorio\\angularyasp\\dgiiapp\\dgiiapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{B906BAFA-E285-4249-954F-F007BF2E710D}|DGIIApp\\DGIIApp.csproj|c:\\users\\kevin\\onedrive\\escritorio\\dgiiapp1-proyecto\\dgiiapp\\dgiiapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B906BAFA-E285-4249-954F-F007BF2E710D}|DGIIApp\\DGIIApp.csproj|solutionrelative:dgiiapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -17,18 +17,18 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 200,
+          "DockedHeight": 335,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Escritorio\\angularyasp\\DGIIApp\\DGIIApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Escritorio\\DGIIApp1-Proyecto\\DGIIApp\\DGIIApp\\Program.cs",
               "RelativeDocumentMoniker": "DGIIApp\\Program.cs",
-              "ToolTip": "C:\\Users\\kevin\\OneDrive\\Escritorio\\angularyasp\\DGIIApp\\DGIIApp\\Program.cs",
+              "ToolTip": "C:\\Users\\kevin\\OneDrive\\Escritorio\\DGIIApp1-Proyecto\\DGIIApp\\DGIIApp\\Program.cs",
               "RelativeToolTip": "DGIIApp\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBMAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-08T02:08:51.762Z",
               "EditorCaption": ""
@@ -37,9 +37,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Escritorio\\angularyasp\\DGIIApp\\DGIIApp\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Escritorio\\DGIIApp1-Proyecto\\DGIIApp\\DGIIApp\\appsettings.json",
               "RelativeDocumentMoniker": "DGIIApp\\appsettings.json",
-              "ToolTip": "C:\\Users\\kevin\\OneDrive\\Escritorio\\angularyasp\\DGIIApp\\DGIIApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\kevin\\OneDrive\\Escritorio\\DGIIApp1-Proyecto\\DGIIApp\\DGIIApp\\appsettings.json",
               "RelativeToolTip": "DGIIApp\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -48,7 +48,7 @@
           ]
         },
         {
-          "DockedHeight": 200,
+          "DockedHeight": 65,
           "SelectedChildIndex": -1,
           "Children": [
             {

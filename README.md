@@ -10,6 +10,15 @@ El sistema permite a los directivos consultar:
 - El total del ITBIS acumulado por contribuyente.
 - Clasificación automática de contribuyentes como ACTIVO o INACTIVO según si poseen comprobantes.
 
+Vista previa de la aplicación
+
+Listado de contribuyentes
+
+![Listado de contribuyentes](readme-assets/1.png)
+
+Comprobantes por contribuyente
+
+![Comprobantes por contribuyente](readme-assets/2.png)
 
 # Tecnologías utilizadas
 
@@ -79,20 +88,11 @@ Ejecutar el Frontend (Angular)
 ```bash
 cd dgii-app-frontend
 npm install
-ng serve
+npx ng serve o ng serve
 ```
 
-Abre el navegador en: [http://localhost:4200](http://localhost:4200)
+Abre el navegador en: [http://localhost:4200]
 
 ---
 
-Vista previa de la aplicación
-
-Listado de contribuyentes
-
-![Listado de contribuyentes](readme-assets/listado-contribuyentes.png)
-
-Comprobantes por contribuyente
-
-![Comprobantes por contribuyente](readme-assets/comprobantes-itbis.png)
 
