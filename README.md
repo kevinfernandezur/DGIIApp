@@ -70,7 +70,7 @@ Clonar el repositorio
 
 ```bash
 git clone https://github.com/kevinfernandezur/DGIIApp.git
-cd DGIIApp1
+cd DGIIApp
 ```
 
 ---
@@ -93,6 +93,9 @@ npx ng serve o ng serve
 
 Abre el navegador en: [http://localhost:4200]
 
----
+
+
+
+Nota: tener node.js y angular instalado
 
 
